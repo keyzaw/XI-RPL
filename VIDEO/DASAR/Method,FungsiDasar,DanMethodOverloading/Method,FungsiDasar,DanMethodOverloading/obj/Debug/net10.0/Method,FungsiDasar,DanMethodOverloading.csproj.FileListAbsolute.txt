@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Documents\XI-RPL\Method,FungsiDasar,DanMethodOverloading\Method,FungsiDasar,DanMethodOverloading\bin\Debug\net10.0\Method,FungsiDasar,DanMethodOverloading.exe
+C:\Users\HP\OneDrive\Documents\XI-RPL\Method,FungsiDasar,DanMethodOverloading\Method,FungsiDasar,DanMethodOverloading\bin\Debug\net10.0\Method,FungsiDasar,DanMethodOverloading.deps.json
+C:\Users\HP\OneDrive\Documents\XI-RPL\Method,FungsiDasar,DanMethodOverloading\Method,FungsiDasar,DanMethodOverloading\bin\Debug\net10.0\Method,FungsiDasar,DanMethodOverloading.runtimeconfig.json
+C:\Users\HP\OneDrive\Documents\XI-RPL\Method,FungsiDasar,DanMethodOverloading\Method,FungsiDasar,DanMethodOverloading\bin\Debug\net10.0\Method,FungsiDasar,DanMethodOverloading.dll
+C:\Users\HP\OneDrive\Documents\XI-RPL\Method,FungsiDasar,DanMethodOverloading\Method,FungsiDasar,DanMethodOverloading\bin\Debug\net10.0\Method,FungsiDasar,DanMethodOverloading.pdb
+C:\Users\HP\OneDrive\Documents\XI-RPL\Method,FungsiDasar,DanMethodOverloading\Method,FungsiDasar,DanMethodOverloading\obj\Debug\net10.0\Method,FungsiDasar,DanMethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documents\XI-RPL\Method,FungsiDasar,DanMethodOverloading\Method,FungsiDasar,DanMethodOverloading\obj\Debug\net10.0\Method,FungsiDasar,DanMethodOverloading.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\XI-RPL\Method,FungsiDasar,DanMethodOverloading\Method,FungsiDasar,DanMethodOverloading\obj\Debug\net10.0\Method,FungsiDasar,DanMethodOverloading.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\XI-RPL\Method,FungsiDasar,DanMethodOverloading\Method,FungsiDasar,DanMethodOverloading\obj\Debug\net10.0\Method,FungsiDasar,DanMethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\XI-RPL\Method,FungsiDasar,DanMethodOverloading\Method,FungsiDasar,DanMethodOverloading\obj\Debug\net10.0\Method,FungsiDasar,DanMethodOverloading.dll
+C:\Users\HP\OneDrive\Documents\XI-RPL\Method,FungsiDasar,DanMethodOverloading\Method,FungsiDasar,DanMethodOverloading\obj\Debug\net10.0\refint\Method,FungsiDasar,DanMethodOverloading.dll
+C:\Users\HP\OneDrive\Documents\XI-RPL\Method,FungsiDasar,DanMethodOverloading\Method,FungsiDasar,DanMethodOverloading\obj\Debug\net10.0\Method,FungsiDasar,DanMethodOverloading.pdb
+C:\Users\HP\OneDrive\Documents\XI-RPL\Method,FungsiDasar,DanMethodOverloading\Method,FungsiDasar,DanMethodOverloading\obj\Debug\net10.0\Method,FungsiDasar,DanMethodOverloading.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Documents\XI-RPL\Method,FungsiDasar,DanMethodOverloading\Method,FungsiDasar,DanMethodOverloading\obj\Debug\net10.0\ref\Method,FungsiDasar,DanMethodOverloading.dll
