@@ -1,0 +1,10 @@
+C:\Calculator Sederhana\Calculator Sederhana\bin\Debug\Calculator Sederhana.exe.config
+C:\Calculator Sederhana\Calculator Sederhana\bin\Debug\Calculator Sederhana.exe
+C:\Calculator Sederhana\Calculator Sederhana\bin\Debug\Calculator Sederhana.pdb
+C:\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator Sederhana.csproj.AssemblyReference.cache
+C:\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator_Sederhana.Form1.resources
+C:\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator_Sederhana.Properties.Resources.resources
+C:\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator Sederhana.csproj.GenerateResource.cache
+C:\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator Sederhana.csproj.CoreCompileInputs.cache
+C:\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator Sederhana.exe
+C:\Calculator Sederhana\Calculator Sederhana\obj\Debug\Calculator Sederhana.pdb
